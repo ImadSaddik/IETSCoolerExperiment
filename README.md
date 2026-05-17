@@ -15,3 +15,14 @@ In this repository, you will find:
 In short, the experiment shows that using a high static pressure cooler drops CPU temperatures by nearly 30°C and completely stops thermal throttling under heavy loads.
 
 ![CPU package temperature during the test](./images/iets_gt_500/cpu_package_temperature_smoothed.svg)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+## Contact
+
+You can reach me through:
+
+- **Email:** [simad3647@gmail.com](mailto:simad3647@gmail.com)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/imadsaddik/)
