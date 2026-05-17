@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/github/license/ImadSaddik/IETSCoolerExperiment)](https://github.com/ImadSaddik/IETSCoolerExperiment/blob/main/LICENSE)
 
-This repository contains the raw data, visualization scripts, and generated graphs for my article on eliminating laptop thermal throttling using high static pressure.
+This repository contains the raw data, visualization scripts, and generated graphs for [my article](https://imadsaddik.com/blogs/how-to-eliminate-laptop-thermal-throttling-with-high-static-pressure) on eliminating laptop thermal throttling using high static pressure.
 
 The project analyzes thermal data collected during heavy gaming workloads on an `Intel i7-13650HX` and `RTX 4070` laptop. We compare standard setups against the `IETS GT500` cooler to see if high static pressure is a viable solution for severe thermal limits.
 
