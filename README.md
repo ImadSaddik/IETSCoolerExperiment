@@ -16,6 +16,34 @@ In short, the experiment shows that using a high static pressure cooler drops CP
 
 ![CPU package temperature during the test](./images/iets_gt_500/cpu_package_temperature_smoothed.svg)
 
+## Setup
+
+To run the notebooks locally, you need Python installed on your machine. Create a virtual environment using your preferred tool to avoid installing dependencies globally.
+
+### uv
+
+```bash
+uv venv --python 3.13
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+uv pip install -r requirements.txt
+```
+
+### conda
+
+```bash
+conda create -n venv python=3.13 -y
+conda activate venv
+pip install -r requirements.txt
+```
+
+### venv
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+```
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
